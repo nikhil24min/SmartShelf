@@ -1,0 +1,27 @@
+body{
+    background: #000000;
+    background-image: linear-gradient(to left top, #000000, #0d0b0c, #151315, #1b1a1d, #202025, #27292f, #2f3338, #373d42, #464c50, #575c5e, #686d6d, #7a7d7d);
+
+
+
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(225, 128, 36); 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
